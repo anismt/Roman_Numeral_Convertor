@@ -103,6 +103,12 @@ GET /romannumeral?query=2024
 - Example tests (planned):
   - Valid inputs return correct Roman output
   - Invalid inputs return 400 errors
+  - 
+Once installed, simply run:
+
+```bash
+npm test
+```
 
 ---
 
