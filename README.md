@@ -118,11 +118,6 @@ All major logic (backend and frontend) is commented inline, assuming this will b
 
 ---
 
-## 📝 License & Purpose
-
-Built by **Anis Tariq** as part of the **Adobe GenStudio Engineering Test**.  
-Not intended for production use. All rights reserved.
-
 ## 🖼️ Screenshots
 
 ### 🔆 Light Mode
@@ -132,4 +127,11 @@ Not intended for production use. All rights reserved.
 ### 🌙 Dark Mode
 
 <img src="./screenshot-dark.png" alt="Dark mode UI" width="600" />
+
+---
+
+## 📝 License & Purpose
+
+Built by **Anis Tariq** as part of the **Adobe GenStudio Engineering Test**.  
+Not intended for production use. All rights reserved.
 
