@@ -112,3 +112,14 @@ All major logic (backend and frontend) is commented inline, assuming this will b
 
 Built by **Anis Tariq** as part of the **Adobe GenStudio Engineering Test**.  
 Not intended for production use. All rights reserved.
+
+## 🖼️ Screenshots
+
+### 🔆 Light Mode
+
+<img src="./screenshot-light.png" alt="Light mode UI" width="600" />
+
+### 🌙 Dark Mode
+
+<img src="./screenshot-dark.png" alt="Dark mode UI" width="600" />
+
