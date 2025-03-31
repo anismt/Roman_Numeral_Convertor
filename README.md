@@ -51,6 +51,10 @@ adobe-genstudio-project/
 ```bash
 docker compose up --build
 ```
+or
+```bash
+docker-compose up --build
+```
 
 - Frontend: [http://localhost:3000](http://localhost:3000)
 - Backend: [http://localhost:8080/romannumeral?query=1999](http://localhost:8080/romannumeral?query=1999)
